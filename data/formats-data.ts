@@ -1,6 +1,6 @@
 export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable = {
 	drople: {
-		tier: "AG",
+		tier: "OU",
 	},
 	bulbasaur: {
 		tier: "LC",
