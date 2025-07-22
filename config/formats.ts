@@ -1874,6 +1874,18 @@ export const Formats: FormatList = [
 		restricted: ['Unicorn', 'Platypus', 'Power Plant', 'Druddigod', 'Snek', 'Ghost Car', 'Trapjaw Fireant', 'Duck', 'groundpoison', 'groundpoison-Crystallized', 'Metal Snek', 'Roc With Ram Horns', 'ghostnormal', 'Cartesian Plane Dragon', 'better than cinderace as soccer', 'Statue'],
 	},
 	{
+		name: "[Gen 8] CaseCAP",
+		desc: `<b>CaseCap</b>: CaseCap `,
+		mod: "casecap",
+		ruleset: ['Standard', 'Data Mod', 'Godly Gift Mod'],
+		banlist: ['AG', 'Uber',
+				  'Blissey', 'Chansey', 'Dragapult', 'Hawlucha', 'Marowak-Alola', 'Melmetal', 'Nidoking', 'Nidoqueen', 'Pikachu', 'Toxapex',
+				  'Focus Band', 'King\'s Rock', 'Quick Claw', 'Razor Fang',
+				  'Huge Power', 'Moody', 'Arena Trap', 'Pure Power', 'Shadow Tag',
+				  'Baton Pass'],
+		restricted: ['Drople', 'Platypus'],
+	},
+	{
 		name: "[Gen 2] Crystal: Sevii Islands",
 		desc: ["<b>Crystal: Sevii Islands</b>- A Gen 2 pet mod that aims to create new Pokemon, items, and moves for the GSC OU Metagame."],
 		threads: [

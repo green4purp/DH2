@@ -1,16 +1,4 @@
 export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
-	drople: {
-		num: 1100,
-		name: "Drople",
-		types: ["Water"],
-		gender: "N",
-		baseStats: {hp: 65, atk: 73, def: 58, spa: 53, spd: 44, spe: 200},
-		abilities: {0: "Cursed Body"},
-		heightm: 0.1,
-		weightkg: 0.1,
-		color: "Blue",
-		eggGroups: ["Undiscovered"],
-	},
 	bulbasaur: {
 		num: 1,
 		name: "Bulbasaur",
